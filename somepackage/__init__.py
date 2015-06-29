@@ -1,1 +1,2 @@
+''' somepackage init '''
 #

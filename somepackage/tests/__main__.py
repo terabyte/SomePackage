@@ -1,3 +1,4 @@
+''' Main test entry point '''
 # RUNME as 'python -m somepackage.tests.__main__'
 import unittest
 import somepackage.tests
